@@ -37,26 +37,8 @@ me = SanjayPandere()
 me.say_hi()
 ```
 
-🔭 **Currently Working On:** AI-powered healthcare systems   
-🌱 **Currently Learning:** Advanced RAG architectures, LangGraph workflows, and distributed systems  
-💡 **Passionate About:** Making AI systems reliable, efficient, and production-ready  
-
 ---
 
-##  Professional Experience
-
-###  **Software Engineer** @ i3 Digital Health
-*Dec 2024 – Present | Remote*
-
-- 🚀 Built full-stack features with **ReactJS**, **Node.js**, **Express**, and **MongoDB**
-- 🔐 Developed secure RESTful APIs with **OAuth2/JWT** authentication
-- ☁️ Deployed scalable services on **AWS ECS** with ECR, VPC, and Application Load Balancer
-- 🤖 Automated CI/CD pipelines using **GitHub Actions**
-- 📊 Optimized MongoDB queries and reduced API latency through indexing
-- 🔍 Enhanced observability with **CloudWatch** logging
-- ⚡ Performed load testing with **Apache JMeter** to validate scalability
-
----
 
 ##  Tech Stack
 
@@ -87,22 +69,8 @@ me.say_hi()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on exciting projects, especially those involving:
-- 🤖 AI-powered applications
-- 🏗️ Scalable backend systems
-- ☁️ Cloud-native architectures
 
 <div align="center">
-
-### Feel free to reach out!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjaypandere84)
-[![Email](https://img.shields.io/badge/Email-Send-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:panderesanjay26@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Psanjay-15)
-
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Psanjay-15&color=blue&style=flat-square&label=Profile+Views)
 
